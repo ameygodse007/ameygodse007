@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=ameygodse007)
+![](https://komarev.com/ghpvc/?username=ameygodse007&color=green)
+![](https://komarev.com/ghpvc/?username=ameygodse007&style=flat-square)
+![](https://komarev.com/ghpvc/?username=ameygodse007&label=PROFILE+VIEWS)
