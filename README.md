@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameygodse007" alt="ameygodse007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ameygodse" target="blank"><img src="https://img.shields.io/twitter/follow/ameygodse?logo=twitter&style=for-the-badge" alt="ameygodse" /></a> </p>
+<p align="left"> <a href="https://twitter.com/amey_godse" target="blank"><img src="https://img.shields.io/twitter/follow/amey_godse?logo=twitter&style=for-the-badge" alt="amey_godse" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science and Web Development**
+
+- 👨‍💻 All of my projects are available at [https://ameyportfolio-610b1.web.app/](https://ameyportfolio-610b1.web.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@ameygodse7](https://medium.com/@ameygodse7)
 
 - 💬 Ask me about **React, python, SQL**
 
@@ -17,7 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ameygodse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ameygodse" height="30" width="40" /></a>
+<a href="https://twitter.com/amey_godse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amey_godse" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amey godse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amey godse" height="30" width="40" /></a>
+<a href="https://kaggle.com/amey godse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="amey godse" height="30" width="40" /></a>
+<a href="https://instagram.com/ameyzone10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ameyzone10" height="30" width="40" /></a>
+<a href="https://medium.com/ameygodse7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ameygodse7" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ameygodse7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ameygodse7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
