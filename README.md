@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/mrameygodse/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amey godse" height="30" width="40" /></a>
 <a href="https://kaggle.com/amey godse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="amey godse" height="30" width="40" /></a>
 <a href="https://instagram.com/ameyzone10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ameyzone10" height="30" width="40" /></a>
-<a href="https://medium.com/ameygodse7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ameygodse7" height="30" width="40" /></a>
+<a href="https://ameygodse7.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ameygodse7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ameygodse7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ameygodse7" height="30" width="40" /></a>
 </p>
 
