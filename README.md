@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, It's Amey Godse Online!!</h1>
 <h3 align="center">A passionate self-learner from India</h3>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ameygodse007)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameygodse007" alt="ameygodse007" /></a> </p>
 
