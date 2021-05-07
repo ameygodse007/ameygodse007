@@ -26,8 +26,9 @@
 <a href="https://instagram.com/ameyzone10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ameyzone10" height="30" width="40" /></a>
 <a href="https://ameygodse7.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ameygodse7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ameygodse7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="ameygodse7" height="30" width="40" /></a>
+  <a href="https://github.com/ameygodse007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ameygodse7" height="30" width="40" /></a>
 </p>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' href="https://github.com/ameygodse007" alt='github' height='40'>]  
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ameygodse007&show_icons=true)  
