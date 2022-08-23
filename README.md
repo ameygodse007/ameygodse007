@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science and Web Development**
 
-- 👨‍💻 All of my projects are available at [https://ameyportfolio-610b1.web.app/](https://ameyportfolio-610b1.web.app/)
+- 👨‍💻 All of my projects are available at [https://newportfolio-763b2.web.app/](https://newportfolio-763b2.web.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@ameygodse7](https://medium.com/@ameygodse7)
 
